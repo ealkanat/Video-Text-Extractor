@@ -1,0 +1,32 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Generated Output Files
+*_screenshots/
+*_extracted.txt
+results.txt
+
+# Video Files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db 
